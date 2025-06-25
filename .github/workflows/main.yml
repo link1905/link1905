@@ -17,6 +17,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
-            CREDLY_USER: linh-ho.7dd59601
-            BADGE_SIZE: 100
