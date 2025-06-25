@@ -36,6 +36,9 @@ I bring a versatile skill set, spanning from system architecture and design to p
 I’ve earned several [certifications and badges](https://www.credly.com/users/linh-ho.7dd59601) from reputable organizations:
 
 <!--START_SECTION:badges-->
+![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png "AWS Certified Solutions Architect – Associate")
+![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob "CKAD: Certified Kubernetes Application Developer")
+![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png "LFCS: Linux Foundation Certified Systems Administrator")
 <!--END_SECTION:badges-->
 
 ## Stay Connected
