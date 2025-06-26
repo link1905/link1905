@@ -1,10 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20I'm%20Ho%20Link&fontSize=30)
+
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?text=Hey I'm Ho Link 👋&animation=fadeIn&type=waving&color=gradient&height=200&fontSize=30"/>
-  
-  I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" />
-
+I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" />
 </div>
 
 ## Technical Skills
@@ -25,65 +23,59 @@ I bring a versatile skill set, spanning from system architecture and design to p
 
 I’ve earned several [certifications and badges](https://www.credly.com/users/link1905) from reputable organizations:
 
-<div>
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <a target="_blank"
-                        href="https://www.credly.com/badges/ab27e631-53d2-4908-aa3f-9ba3810f0abc/embedded">
-                        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Certificate Badge" height="100" >
-                    </a>
-                </td>
-                <td>
-                    <a target="_blank"
-                      href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified Solutions Architect - Associate</a>
-                    <p>Issued by Amazon Web Services Training and Certification</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank"
+                    href="https://www.credly.com/badges/ab27e631-53d2-4908-aa3f-9ba3810f0abc/embedded">
+                    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Certificate Badge" height="100" >
+                </a>
+            </td>
+            <td>
+                <a target="_blank"
+                  href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">AWS Certified Solutions Architect - Associate</a>
+                <p>Issued by Amazon Web Services Training and Certification</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<div>
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <a target="_blank"
-                        href="https://www.credly.com/badges/bc12c595-2d9d-4c6d-a4be-e153f336404f/embedded">
-                        <img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="Certificate Badge" height="100" >
-                    </a>
-                </td>
-                <td>
-                    <a target="_blank"
-                      href="https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/">LFCS: Linux Foundation Certified Systems Administrator</a>
-                    <p>Issued by The Linux Foundation</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank"
+                    href="https://www.credly.com/badges/bc12c595-2d9d-4c6d-a4be-e153f336404f/embedded">
+                    <img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="Certificate Badge" height="100" >
+                </a>
+            </td>
+            <td>
+                <a target="_blank"
+                  href="https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/">LFCS: Linux Foundation Certified Systems Administrator</a>
+                <p>Issued by The Linux Foundation</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<div>
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <a target="_blank"
-                        href="https://www.credly.com/badges/2cc4bc50-a829-4d53-a695-986dbc42581a/embedded">
-                        <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certificate Badge" height="100" >
-                    </a>
-                </td>
-                <td>
-                    <a target="_blank"
-                      href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/">CKAD: Certified Kubernetes Application Developer</a>
-                    <p>Issued by The Linux Foundation</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank"
+                    href="https://www.credly.com/badges/2cc4bc50-a829-4d53-a695-986dbc42581a/embedded">
+                    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certificate Badge" height="100" >
+                </a>
+            </td>
+            <td>
+                <a target="_blank"
+                  href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/">CKAD: Certified Kubernetes Application Developer</a>
+                <p>Issued by The Linux Foundation</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Open-Source Projects
 
