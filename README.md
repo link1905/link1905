@@ -38,11 +38,6 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
                 <p>Issued by Amazon Web Services Training and Certification</p>
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
             <td>
                 <a target="_blank"
@@ -56,11 +51,6 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
                 <p>Issued by The Linux Foundation</p>
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
         <tr>
             <td>
                 <a target="_blank"
