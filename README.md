@@ -1,7 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I%27m%20Linh%20%F0%9F%91%8B&fontSize=30)
 
+<div align="center">
+    
 I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" width="32" />
+
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/link1905)
+[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/link1905)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/link1905)
+
+</div>
 
 ## Technical Skills
 
@@ -74,9 +82,4 @@ Perfect for aspiring system designers looking to build foundational knowledge.
 
 - [Unity Summer Rest](https://github.com/link1905/Unity-SummerRest): A Unity plugin with features inspired by Postman,
 designed to visualize HTTP endpoints and make REST calls effortlessly within Unity.
-  
-## Stay Connected
 
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/link1905)
-[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/link1905)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/link1905)
