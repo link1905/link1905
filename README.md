@@ -1,9 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20I'm%20Ho%20Linh&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I%27m%20Linh%20%F0%9F%91%8B&fontSize=30)
 
-<div align="center">
-I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" />
-</div>
+I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" width="32" />
 
 ## Technical Skills
 
@@ -29,7 +27,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             <td>
                 <a target="_blank"
                     href="https://www.credly.com/badges/ab27e631-53d2-4908-aa3f-9ba3810f0abc/embedded">
-                    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Certificate Badge" height="100" >
+                    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
             <td>
@@ -42,7 +40,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             <td>
                 <a target="_blank"
                     href="https://www.credly.com/badges/bc12c595-2d9d-4c6d-a4be-e153f336404f/embedded">
-                    <img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="Certificate Badge" height="100" >
+                    <img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
             <td>
@@ -55,7 +53,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             <td>
                 <a target="_blank"
                     href="https://www.credly.com/badges/2cc4bc50-a829-4d53-a695-986dbc42581a/embedded">
-                    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certificate Badge" height="100" >
+                    <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
             <td>
@@ -80,4 +78,4 @@ designed to visualize HTTP endpoints and make REST calls effortlessly within Uni
 ## Stay Connected
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/link1905)
-[![Unity](https://skillicons.dev/icons?i=devto)](https://dev.to/link1905)
+[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/link1905)
