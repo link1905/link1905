@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20I'm%20Ho%20Link&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20I'm%20Ho%20Linh&fontSize=30)
 
 <div align="center">
 I’m a passionate full-stack game developer 🎮 and system designer ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" />
