@@ -79,3 +79,4 @@ designed to visualize HTTP endpoints and make REST calls effortlessly within Uni
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/link1905)
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/link1905)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/link1905)
