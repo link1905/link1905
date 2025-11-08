@@ -36,7 +36,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             </td>
             <td>
                 <a target="_blank"
-                  href="https://www.credly.com/earner/earned/badge/59997f4a-be58-4855-82bb-47dddafe82fe">AWS Certified Solutions Architect – Professional</a>
+                  href="https://www.credly.com/badges/59997f4a-be58-4855-82bb-47dddafe82fe/public_url">AWS Certified Solutions Architect – Professional</a>
                 <p>Issued by Amazon Web Services Training and Certification</p>
             </td>
         </tr>
@@ -49,7 +49,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             </td>
             <td>
                 <a target="_blank"
-                  href="https://www.credly.com/earner/earned/badge/f162a0b6-0ee9-4bee-a489-fa19a80f8b26">AWS Certified Security – Specialty</a>
+                  href="https://www.credly.com/badges/f162a0b6-0ee9-4bee-a489-fa19a80f8b26/public_url">AWS Certified Security – Specialty</a>
                 <p>Issued by Amazon Web Services Training and Certification</p>
             </td>
         </tr>
@@ -62,14 +62,14 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             </td>
             <td>
                 <a target="_blank"
-                  href="https://www.credly.com/earner/earned/badge/bc12c595-2d9d-4c6d-a4be-e153f336404f">LFCS: Linux Foundation Certified Systems Administrator</a>
+                  href="https://www.credly.com/badges/bc12c595-2d9d-4c6d-a4be-e153f336404f/public_url">LFCS: Linux Foundation Certified Systems Administrator</a>
                 <p>Issued by The Linux Foundation</p>
             </td>
         </tr>
         <tr>
             <td>
                 <a target="_blank"
-                    href="https://www.credly.com/earner/earned/badge/2cc4bc50-a829-4d53-a695-986dbc42581a">
+                    href="https://www.credly.com/badges/2cc4bc50-a829-4d53-a695-986dbc42581a/public_url">
                     <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
