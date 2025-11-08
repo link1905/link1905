@@ -30,7 +30,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
         <tr>
             <td>
                 <a target="_blank"
-                    href="https://www.credly.com/earner/earned/badge/59997f4a-be58-4855-82bb-47dddafe82fe">
+                    href="https://www.credly.com/badges/59997f4a-be58-4855-82bb-47dddafe82fe/public_url">
                     <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
@@ -43,7 +43,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
         <tr>
             <td>
                 <a target="_blank"
-                    href="https://www.credly.com/earner/earned/badge/f162a0b6-0ee9-4bee-a489-fa19a80f8b26">
+                    href="https://www.credly.com/badges/f162a0b6-0ee9-4bee-a489-fa19a80f8b26/public_url">
                     <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
@@ -56,7 +56,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
         <tr>
             <td>
                 <a target="_blank"
-                    href="https://www.credly.com/earner/earned/badge/bc12c595-2d9d-4c6d-a4be-e153f336404f">
+                    href="https://www.credly.com/badges/bc12c595-2d9d-4c6d-a4be-e153f336404f/public_url">
                     <img src="https://images.credly.com/size/340x340/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="Certificate Badge" width="100" height="100" >
                 </a>
             </td>
@@ -75,7 +75,7 @@ I’ve earned several [certifications and badges](https://www.credly.com/users/l
             </td>
             <td>
                 <a target="_blank"
-                  href="https://www.credly.com/earner/earned/badge/2cc4bc50-a829-4d53-a695-986dbc42581a">CKAD: Certified Kubernetes Application Developer</a>
+                  href="https://www.credly.com/badges/2cc4bc50-a829-4d53-a695-986dbc42581a/public_url">CKAD: Certified Kubernetes Application Developer</a>
                 <p>Issued by The Linux Foundation</p>
             </td>
         </tr>
