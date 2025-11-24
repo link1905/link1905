@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%2C%20I%27m%20Linh%20%F0%9F%91%8B&fontSize=30)
 
-I’m a passionate full-stack solutions architect ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" width="32" />
+I’m a passionate solutions architect ✍️ from Vietnam <img align="center" src="images/flag.svg" alt="Vietnam flag" height="32" width="32" />
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/link1905)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/link1905)
